@@ -6,5 +6,5 @@ export const sampleUserData: User[] = [
   { id: 102, name: 'Bob' },
   { id: 103, name: 'Caroline' },
   { id: 104, name: 'Dave' },
-  { id: 105, name 'DK' }
+  { id: 105, name: 'DK' },
 ]
